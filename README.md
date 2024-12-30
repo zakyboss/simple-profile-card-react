@@ -2,7 +2,7 @@
 
 A React-based web application showcasing a simple profile card with a list of skills and random background colors for skill tags.
 
-![Profile Card](./image.png)
+![Profile Card](./img.png)
 
 ## Features
 
